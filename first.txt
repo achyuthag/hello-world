@@ -1,2 +1,3 @@
 hi 
 this i my first git hub
+hi i am developer
